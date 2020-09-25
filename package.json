@@ -1,0 +1,24 @@
+{
+  "name": "live-match",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babylonjs": "^4.1.0",
+    "babylonjs-gui": "^4.1.0",
+    "babylonjs-loaders": "^4.1.0",
+    "babylonjs-materials": "^4.1.0"
+  },
+  "devDependencies": {
+    "@babylonjs/core": "^4.1.0",
+    "@babylonjs/materials": "^4.1.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
